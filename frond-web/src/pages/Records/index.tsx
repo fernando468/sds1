@@ -1,6 +1,6 @@
 import axios from 'axios';
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
+import Filters from '../../components/Filters';
 import { formatDate } from './helpers';
 import Pagination from './Pagination';
 import './styles.css';
@@ -23,11 +23,7 @@ const Records = () => {
 
   return (
     <div className="page-container">
-      <div className="filters-container records-actions">
-        <Link to="/charts">
-          <button className="action-filters">VER GRÁFICOS</button>
-        </Link>
-      </div>
+      <Filters link="/charts" linkText="VER GRÁFICO" />
       <table className="records-table" cellPadding="0" cellSpacing="0">
         <thead>
           <tr>
