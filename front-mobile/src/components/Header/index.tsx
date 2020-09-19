@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, StyleSheet, Image, Text, Alert } from 'react-native';
+import { View, StyleSheet, Image, Text } from 'react-native';
 import { TouchableWithoutFeedback } from 'react-native-gesture-handler';
 import { useNavigation } from '@react-navigation/native';
 
