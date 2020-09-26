@@ -2,7 +2,7 @@
 Esse projeto foi realizado durante a Semana DevSuperior 1.0.
 
 # Sobre a aplicação
-É uma aplicação web e mobile de pesquisa sobre a preferência de jogos por parte dos usuários.
+É uma aplicação web e mobile de pesquisa sobre a preferência de jogos e em quais plataformas os usuários jogam.
 - ### Funcionalidades
   - Frontent web
     - Exibir os dados pesquisa em uma tabela. Essa exibição ocorre com várias páginas.
