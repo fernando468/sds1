@@ -31,10 +31,4 @@ Esse projeto foi realizado durante a Semana DevSuperior 1.0.
 - ### Mobile
   - Typescript
   - Expo
-- Netlify
-- Heroku
-## Link da aplicação funcionando
-- https://ds-survey.netlify.app/
-
-## Observações
-- A API que esta hospedada no heroku entra em suspensão quando fica mais de uma hora sem receber acessos. Por causa disso ao acessar o frontend os dados podem demorar aparecer, então tem que aguardar um pouco até os dados aparecerem.
+  
